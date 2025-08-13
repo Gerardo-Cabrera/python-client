@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Virtual environments
+venv/
+.env/
+.envrc
+
+# VSCode
+.vscode/
+
+# Test and coverage
+.coverage
+htmlcov/
+.tox/
+.pytest_cache/
+
+# Build
+build/
+dist/
+*.egg-info/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Others
+*.sqlite3
+*.db
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Mypy
+.mypy_cache/
+.dmypy.json
+
+# Coverage
+coverage.xml
+
+# Sphinx
+docs/_build/

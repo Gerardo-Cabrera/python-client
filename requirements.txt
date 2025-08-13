@@ -1,0 +1,8 @@
+requests>=2.28
+httpx>=0.24
+pytest>=7.0
+pytest-asyncio>=0.21.0
+mypy>=0.991
+flake8>=6.0
+wemake-python-styleguide==0.19.2
+types-requests
